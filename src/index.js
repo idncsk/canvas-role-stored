@@ -23,7 +23,6 @@ const metaSchema = require('./schemas/meta')
 
 class Stored {
 
-
     constructor(options = {}) {
 
         debug('Initializing Canvas StoreD')        
